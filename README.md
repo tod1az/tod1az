@@ -13,7 +13,7 @@
  
 - ⚡ Fun fact **El primer lenguaje de programación que aprendí fue Pascal**
 
-- 📩 Contactame: t.diaz.soto@gmail.com
+- 📩 Contáctame: t.diaz.soto@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/tod1az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tod1az" height="30" width="40" /></a>
 </p>
