@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">Full Stack developer</h3>
   
-- 🌱 Actualmente aprendiendo **Typescript**
+- 🌱 Actualmente aprendiendo **TypeScript**
 
-- 🎮 Desde muy pequeño siempre me apasionaron mucho los videojuegos, esta fue una de las razones por las que me 
+- 🎮 Desde muy pequeño siempre me apasionaron mucho los videojuegos. Esta fue una de las razones por las que me 
      acerqué al mundo de la programación
 
-- 💻 Me gusta mucho la programación, aspiro ser un gran aporte en alguna empresa y a la vez 
+- 💻 Me gusta mucho la programación. Aspiro ser un gran aporte en alguna empresa, y a la vez 
   poder adquirir la mayor cantidad de conocimientos de ella
   
-- 🧠 Creo que en la vida nunca se para de aprender y eso es lo más divertido que tiene 
+- 🧠 Creo que en la vida nunca se para de aprender, y eso es lo más divertido que tiene 
  
 - ⚡ Fun fact **El primer lenguaje de programación que aprendí fue Pascal**
 
-<h3 align="left">Contactame en:</h3>
-- 📩 : t.diaz.soto@gmail.com
+- 📩 Contactame: t.diaz.soto@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/tod1az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tod1az" height="30" width="40" /></a>
 </p>
