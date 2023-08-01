@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomás</h1>
+<h1 align="center">Hola!👋 Soy Tomás</h1>
 <h3 align="center">Full Stack developer</h3>
   
 - 🌱 Actualmente aprendiendo **TypeScript**
