@@ -6,8 +6,8 @@
 - 🎮 Desde muy pequeño siempre me apasionaron mucho los videojuegos. Esta fue una de las razones por las que me 
      acerqué al mundo de la programación
 
-- 💻 Me gusta mucho la programación. Aspiro ser un gran aporte en alguna empresa, y a la vez 
-  poder adquirir la mayor cantidad de conocimientos de ella
+- 💻 Me gusta mucho la programación. Aspiro ser un gran aporte en algun equipo, y a la vez 
+  poder adquirir la mayor cantidad de conocimientos de ellos.
   
 - 🧠 Creo que en la vida nunca se para de aprender, y eso es lo más divertido que tiene 
  
