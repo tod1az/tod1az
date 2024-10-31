@@ -9,6 +9,8 @@
 - 🧠 Creo que en la vida nunca se para de aprender, y eso es lo más divertido que tiene 
  
 - ⚡ Fun fact **El primer lenguaje de programación que aprendí fue Pascal**
+  
+- ⚡ Fun fact **I use nvim btw**
 
 - 📩 Contáctame: t.diaz.soto@gmail.com
 <p align="left">
